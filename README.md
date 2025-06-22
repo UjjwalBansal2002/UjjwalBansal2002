@@ -81,7 +81,7 @@
   <a href="https://github.com/UjjwalBansal2002" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:bansalujjwal2002@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bansalujjwal2002@gmail.com target="_blank"">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
