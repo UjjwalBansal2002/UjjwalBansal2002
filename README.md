@@ -4,7 +4,8 @@
 <h3 align="center">MERN Stack Developer | MCA Student at ABES Engineering College | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer;Freelancer+%26+Intern+Ready;Clean+UI+%2B+Solid+Code;Loves+Comedy%2C+Code+%26+Content!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer;Open+to+Internships+%26+Freelance+Projects;Building+Clean+and+Responsive+Web+Apps;Loves+Comedy%2C+Code+%26+Creativity!" alt="Typing SVG" />
+
 </p>
 
 ---
