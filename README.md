@@ -4,18 +4,16 @@
 <h3 align="center">MERN Stack Developer | MCA Student at ABES Engineering College | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer;Open+to+Internships+%26+Freelance+Projects;Building+Clean+and+Responsive+Web+Apps;Loves+Comedy%2C+Code+%26+Creativity!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer;Freelancer+%26+Intern+Ready;Clean+UI+%2B+Solid+Code;Loves+Comedy%2C+Code+%26+Content!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as **Credit Process Analyst** at **Kotak Mahindra Bank**
 - 🎓 Pursuing **MCA (2023–2025)** from **ABES Engineering College**
 - 💻 Passionate about **Web Development** and learning new technologies
 - 🚀 Building full-stack projects using **MERN Stack**, **Tailwind CSS**, and **Next.js**
-- 📺 Recently launched a content-driven YouTube channel – *[ChopTheJoke](https://www.youtube.com/@ChopTheJoke)* for comedy content & Shorts
 
 ---
 
@@ -47,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalbansal-dev&show_icons=true&theme=github_dark" alt="Ujjwal Bansal GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalbansal-dev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UjjwalBansal2002&show_icons=true&theme=github_dark" alt="Ujjwal Bansal GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalBansal2002&theme=tokyonight" />
 </p>
 
 ---
@@ -69,7 +67,7 @@
   <a href="https://www.linkedin.com/in/ujjwalbansal-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/ujjwalbansal-dev" target="_blank">
+  <a href="https://github.com/UjjwalBansal2002" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:ujjwalbansal.official@gmail.com">
